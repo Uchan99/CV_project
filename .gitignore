@@ -1,0 +1,28 @@
+# 데이터셋 (절대 커밋 금지)
+data/
+*.zip
+*.jpg
+*.png
+*.json
+
+# 모델 가중치 / 학습 결과
+*.pt
+*.onnx
+*.engine
+runs/
+weights/
+
+# 파이썬
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# 기타
+.DS_Store
+.env
+env/
+.claude/
+CLAUDE.md
+
