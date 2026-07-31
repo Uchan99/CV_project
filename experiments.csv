@@ -1,0 +1,3 @@
+tag,date,model,imgsz,all_map50,all_map5095,all_n,daytime_map50,daytime_map5095,daytime_n,night_map50,night_map5095,night_n,dawn_dusk_map50,dawn_dusk_map5095,dawn_dusk_n,rainy_map50,rainy_map5095,rainy_n,snowy_map50,snowy_map5095,snowy_n,clear_map50,clear_map5095,clear_n,gap_map50,gap_map5095
+E1-1_bdd_1ep,2026-07-31 00:32,runs/detect/train-2/weights/best.pt,640,0.2787,0.1422,10000,0.2808,0.1468,5258,0.2705,0.1323,3929,0.2686,0.1414,778,0.2819,0.1466,738,0.2813,0.1393,769,0.2732,0.1377,5346,0.0103,0.0145
+E1-1_baseline_s_50ep,2026-08-01 00:50,runs/detect/E1-1_baseline_s_50ep/weights/best.pt,640,0.5325,0.3003,10000,0.5371,0.3081,5258,0.5221,0.2850,3929,0.5256,0.3002,778,0.5292,0.3036,738,0.4968,0.2781,769,0.5221,0.2907,5346,0.0150,0.0230
