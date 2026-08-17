@@ -26,3 +26,4 @@ env/
 .claude/
 CLAUDE.md
 
+logs/
