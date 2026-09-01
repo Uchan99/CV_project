@@ -3,4 +3,5 @@ E3-4_baseline_640,runs/detect/E3-4_combined/weights/best.pt,640,5.07,13.54,9.47,
 E4-2_s_416,runs/detect/E3-4_combined/weights/best.pt,416,4.24,13.16,8.01,19.05,235.9,124.9,58
 E4-3_n_640,runs/detect/E4_yolov8n_combined/weights/best.pt,640,3.73,11.92,7.99,16.47,268.3,125.2,32
 E4-4_n_416,runs/detect/E4_yolov8n_combined/weights/best.pt,416,4.18,12.22,7.43,16.84,239.5,134.5,20
+E4-6_s_736,runs/detect/E3-4_combined/weights/best.pt,736,4.92,13.20,9.54,17.95,203.2,104.8,90
 E4-6_s_736,runs/detect/E3-4_combined/weights/best.pt,736,4.49,9.84,8.57,16.26,222.7,116.7,90
